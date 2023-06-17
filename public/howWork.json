@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "icon": "FaBicycle",
+      "subheading": "Bike Sharing",
+      "heading": "Explore the City on Two Wheels"
+    },
+    {
+      "id": 2,
+      "icon": "FaMotorcycle",
+      "subheading": "Motorbike Rides",
+      "heading": "Efficient and Quick Transportation"
+    },
+    {
+      "id": 3,
+      "icon": "FaCar",
+      "subheading": "Car Rental",
+      "heading": "Convenient and Comfortable Travel"
+    },
+    {
+      "id": 4,
+      "icon": "FaBus",
+      "subheading": "Bus Services",
+      "heading": "Affordable Public Transportation"
+    }
+  ]
+  
