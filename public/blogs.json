@@ -1,0 +1,92 @@
+[
+  {
+    "_id": "01",
+    "picture": "image1.jpg",
+    "type": "Tips and Tricks",
+    "heading": "Mastering the Art of Rating: A Guide for Riders",
+    "description": "Learn how to leave helpful and accurate ratings for your drivers, ensuring a better experience for all.",
+    "published_date": "2023-03-10",
+    "author_name": "John Doe"
+  },
+  {
+    "_id": "02",
+    "picture": "image2.jpg",
+    "type": "Rider Stories",
+    "heading": "A Memorable Road Trip: Exploring the Pacific Coast",
+    "description": "Join Sarah as she shares her unforgettable journey along the stunning Pacific Coast, filled with breathtaking landscapes and hidden gems.",
+    "published_date": "2023-04-05",
+    "author_name": "Sarah Thompson"
+  },
+  {
+    "_id": "03",
+    "picture": "image3.jpg",
+    "type": "Industry News",
+    "heading": "The Rise of Electric Vehicles in Ridesharing",
+    "description": "Discover how electric vehicles are transforming the ridesharing industry, promoting sustainability and reducing carbon footprints.",
+    "published_date": "2023-04-15",
+    "author_name": "Emma Johnson"
+  },
+  {
+    "_id": "04",
+    "picture": "image4.jpg",
+    "type": "Tips and Tricks",
+    "heading": "Navigating Peak Hours: Strategies for Efficient Rides",
+    "description": "Learn smart techniques to beat the rush hour and make the most of your rides during peak times.",
+    "published_date": "2023-05-02",
+    "author_name": "Michael Anderson"
+  },
+  {
+    "_id": "05",
+    "picture": "image5.jpg",
+    "type": "Rider Stories",
+    "heading": "Exploring Culinary Delights: A Foodie's Guide to Local Eateries",
+    "description": "Embark on a gastronomic adventure as David shares his top recommendations for mouthwatering dishes at hidden local restaurants.",
+    "published_date": "2023-05-20",
+    "author_name": "David Lee"
+  },
+  {
+    "_id": "06",
+    "picture": "image6.jpg",
+    "type": "Industry News",
+    "heading": "The Future of Ridesharing: Autonomous Vehicles on the Horizon",
+    "description": "Get a glimpse into the future of ridesharing and the potential impact of self-driving cars on transportation as we know it.",
+    "published_date": "2023-06-05",
+    "author_name": "Sophia Williams"
+  },
+  {
+    "_id": "07",
+    "picture": "image7.jpg",
+    "type": "Tips and Tricks",
+    "heading": "Safety First: Essential Tips for Riders",
+    "description": "Ensure your rides are safe and secure with these practical tips that every rider should know and follow.",
+    "published_date": "2023-06-15",
+    "author_name": "Ryan Martinez"
+  },
+  {
+    "_id": "08",
+    "picture": "https://media.istockphoto.com/id/1405757210/vector/travel-time-vector-concept-design-time-to-travel-text-in-map-background-with-luggage.webp?s=170667a&w=0&k=20&c=ySPwAzPuh-DSrE0fML5krYUzfS7QDZ249BnJINGFd7Q=",
+    "type": "Rider Stories",
+    "heading": "A Journey of Kindness: How One Driver Made a Difference",
+    "description": "Read the heartwarming story of a compassionate driver who went above and beyond to help a passenger in need.",
+    "published_date": "2023-06-22",
+    "author_name": "Emily Collins"
+  },
+  {
+    "_id": "09",
+    "picture": "https://images.unsplash.com/photo-1602604900209-e712d9ca7173?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+    "type": "Industry News",
+    "heading": "The Gig Economy and Ridesharing: Exploring the Benefits",
+    "description": "Delve into the advantages and opportunities offered by the gig economy and how it has revolutionized the ridesharing industry.",
+    "published_date": "2023-07-01",
+    "author_name": "Daniel Peterson"
+  },
+  {
+    "_id": "10",
+    "picture": "https://images.unsplash.com/photo-1600320254374-ce2d293c324e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cmlkZXNoYXJlfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+    "type": "Tips and Tricks",
+    "heading": "Maximizing your Rideshare Experience on a Budget",
+    "description": "Discover smart strategies to save money while enjoying the convenience and comfort of ridesharing services.",
+    "published_date": "2023-07-10",
+    "author_name": "Olivia Wilson"
+  }
+]

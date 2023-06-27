@@ -1,3 +1,4 @@
+import BlogSection from "./components/Pages/HomePage/BlogSection";
 import CustomerReviews from "./components/Pages/HomePage/CustomerReviews";
 import Header from "./components/Pages/HomePage/Header";
 import HowWork from "./components/Pages/HomePage/HowWork";
@@ -13,6 +14,7 @@ function App() {
         <HowWork />
         <TrustedServices />
         <CustomerReviews />
+        <BlogSection />
       </div>
     </>
   );

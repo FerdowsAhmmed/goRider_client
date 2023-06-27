@@ -36,16 +36,16 @@ const CustomerReviews = () => {
   ];
 
   return (
-    <>
+    <div  className="mb-20">
       <SectionHeader
         heading={"Customer Reviews"}
         subheading={
           "To provide some insights from customers, we present Customer Reviews."
         }
       />
-      <div className="min-h-full">
+      <div>
         <section
-          className="relative py-20 mt-20"
+          className="relative py-20"
           style={{
             backgroundImage: `url(https://e0.pxfuel.com/wallpapers/28/560/desktop-wallpaper-route-66-road-map.jpg)`,
             backgroundSize: "cover",
@@ -87,7 +87,7 @@ const CustomerReviews = () => {
           </Swiper>
         </section>
       </div>
-    </>
+    </div>
   );
 };
 
