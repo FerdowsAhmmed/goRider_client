@@ -1,4 +1,5 @@
 /** @type {import('tailwindcss').Config} */
+
 export default {
   content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"],
   theme: {
@@ -13,6 +14,7 @@ export default {
         light: "#f8fafc",
         dark: "#020617",
       },
+      
     },
   },
   plugins: [require("daisyui")],

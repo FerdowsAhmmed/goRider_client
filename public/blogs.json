@@ -1,7 +1,7 @@
 [
   {
     "_id": "01",
-    "picture": "image1.jpg",
+    "picture": "https://t3.ftcdn.net/jpg/03/56/24/68/360_F_356246840_yESOn1Qa89U5malAzu9oZE7I8eAqGRS5.jpg",
     "type": "Tips and Tricks",
     "heading": "Mastering the Art of Rating: A Guide for Riders",
     "description": "Learn how to leave helpful and accurate ratings for your drivers, ensuring a better experience for all.",
@@ -10,7 +10,7 @@
   },
   {
     "_id": "02",
-    "picture": "image2.jpg",
+    "picture": "https://t3.ftcdn.net/jpg/02/56/57/04/360_F_256570431_0gdKHlQx76dQtBvQlIlikrG8RjN4QUwH.jpg",
     "type": "Rider Stories",
     "heading": "A Memorable Road Trip: Exploring the Pacific Coast",
     "description": "Join Sarah as she shares her unforgettable journey along the stunning Pacific Coast, filled with breathtaking landscapes and hidden gems.",
@@ -19,7 +19,7 @@
   },
   {
     "_id": "03",
-    "picture": "image3.jpg",
+    "picture": "https://rideamigos.com/wp-content/uploads/2018/09/ridesharing_management_2-1030x519.jpg",
     "type": "Industry News",
     "heading": "The Rise of Electric Vehicles in Ridesharing",
     "description": "Discover how electric vehicles are transforming the ridesharing industry, promoting sustainability and reducing carbon footprints.",
@@ -28,7 +28,7 @@
   },
   {
     "_id": "04",
-    "picture": "image4.jpg",
+    "picture": "https://www.tripsavvy.com/thmb/85wFz774F2_2HV5MrYCW7xA53MI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1050146084-1f58e25cdab445b996e5896ee6e4cbe0.jpg",
     "type": "Tips and Tricks",
     "heading": "Navigating Peak Hours: Strategies for Efficient Rides",
     "description": "Learn smart techniques to beat the rush hour and make the most of your rides during peak times.",
@@ -37,7 +37,7 @@
   },
   {
     "_id": "05",
-    "picture": "image5.jpg",
+    "picture": "https://cff2.earth.com/uploads/2018/09/17132616/Is-a-ridesharing-culture-actually-better-for-the-environment.jpg",
     "type": "Rider Stories",
     "heading": "Exploring Culinary Delights: A Foodie's Guide to Local Eateries",
     "description": "Embark on a gastronomic adventure as David shares his top recommendations for mouthwatering dishes at hidden local restaurants.",
@@ -46,7 +46,7 @@
   },
   {
     "_id": "06",
-    "picture": "image6.jpg",
+    "picture": "https://img.freepik.com/free-vector/taxi-app-concept_23-2148485646.jpg",
     "type": "Industry News",
     "heading": "The Future of Ridesharing: Autonomous Vehicles on the Horizon",
     "description": "Get a glimpse into the future of ridesharing and the potential impact of self-driving cars on transportation as we know it.",
@@ -55,7 +55,7 @@
   },
   {
     "_id": "07",
-    "picture": "image7.jpg",
+    "picture": "https://www.netsolutions.com/insights/wp-content/uploads/2020/12/the-10-best-rideshare-apps.webp",
     "type": "Tips and Tricks",
     "heading": "Safety First: Essential Tips for Riders",
     "description": "Ensure your rides are safe and secure with these practical tips that every rider should know and follow.",

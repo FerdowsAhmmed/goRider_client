@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "type": "AC Private Car",
+    "distance": "5 min away",
+    "price": 10,
+    "image": "https://i.ibb.co/fYTf9y1/244-2443136-indigo-tata-indigo-car-png-removebg-preview.png"
+  },
+  {
+    "id": 2,
+    "type": "Non-AC Private Car",
+    "distance": "5 min away",
+    "price": 8,
+    "image": "https://i.ibb.co/TYtWxmf/85ac3f4f7a8deef04dc909a299a3b13b.png"
+  },
+  {
+    "id": 3,
+    "type": "Bike",
+    "distance": "5 min away",
+    "price": 5,
+    "image": "https://i.ibb.co/RC97zQh/pngimg-com-motorcycle-PNG3157.png"
+  },
+  {
+    "id": 4,
+    "type": "Sedan",
+    "distance": "10 min away",
+    "price": 12,
+    "image": "https://i.ibb.co/k1MTYmX/pngimg-com-honda-PNG10341.png"
+  },
+  {
+    "id": 5,
+    "type": "SUV",
+    "distance": "8 min away",
+    "price": 15,
+    "image": "https://i.ibb.co/Jyq9hHm/SUV-PNG-File-Download-Free.png"
+  },
+  {
+    "id": 6,
+    "type": "Luxury Car",
+    "distance": "12 min away",
+    "price": 20,
+    "image": "https://i.ibb.co/kyWzXx9/ef399d76b2bcb8ed0913a215f4d835ea.png"
+  },
+  {
+    "id": 7,
+    "type": "Minivan",
+    "distance": "7 min away",
+    "price": 14,
+    "image": "https://i.ibb.co/pRMKZ0d/pngtree-mini-van-car-vehicle-minibus-png-image-4624947-removebg-preview.png"
+  },
+  {
+    "id": 8,
+    "type": "Electric Car",
+    "distance": "6 min away",
+    "price": 9,
+    "image": "https://i.ibb.co/TcrjpY7/pngimg-com-electric-car-PNG22.png"
+  },
+  {
+    "id": 9,
+    "type": "Convertible",
+    "distance": "15 min away",
+    "price": 25,
+    "image": "https://i.ibb.co/RgB5m9n/Convertible-Car-PNG-Image-File.png"
+  },
+  {
+    "id": 10,
+    "type": "Compact Car",
+    "distance": "9 min away",
+    "price": 11,
+    "image": "https://i.ibb.co/HhBff6R/402-4020392-bmw-i3-electric-car-bmw-2016-small-car-removebg-preview.png"
+  }
+]

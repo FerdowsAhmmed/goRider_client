@@ -1,11 +1,11 @@
 import React, { useContext } from "react";
-import { FaUserCircle } from "react-icons/fa";
 import { Link, useNavigate } from "react-router-dom";
 import { AuthContext } from "../../Providers/AuthProvider";
 import useCheckRole from "../../Pages/Dashboard/useCheckRole";
 
-const TopNav = () => {
+const TopNavTransparent = () => {
   const navigate = useNavigate();
+
   const { user, logout } = useContext(AuthContext);
 
   const [isAdmin, isDriver] = useCheckRole();
@@ -19,7 +19,7 @@ const TopNav = () => {
   };
 
   return (
-    <div className="navbar bg-primary text-white">
+    <div className="navbar fixed z-50 bg-primary bg-opacity-50 text-white">
       <div className="navbar-start">
         <div className="dropdown">
           <label tabIndex={0} className="btn btn-ghost lg:hidden">
@@ -40,7 +40,7 @@ const TopNav = () => {
           </label>
           <ul
             tabIndex={0}
-            className="menu menu-compact dropdown-content mt-3 p-2 shadow bg-primary rounded-box w-52 z-50"
+            className="menu menu-compact dropdown-content mt-3 p-2 shadow bg-primary bg-opacity-50 rounded-box w-52"
           >
             <li>
               <Link to={"/"}>Home</Link>
@@ -64,7 +64,6 @@ const TopNav = () => {
                   </div>
                   <div className="flex flex-col">
                     <li>
-                      {}
                       <Link to={dynamicPath}>Dashboard</Link>
                     </li>
                     <li>
@@ -96,8 +95,9 @@ const TopNav = () => {
           Go-Rider
         </Link>
       </div>
+
       <div className="navbar-end hidden lg:flex mr-5 lg:items-center">
-        <ul className="font-bold p-2 bg-primary rounded-box lg:flex lg:justify-center lg:items-center gap-4">
+        <ul className="font-bold p-2 bg-primary bg-opacity-50 rounded-box lg:flex lg:justify-center lg:items-center gap-4">
           <li>
             <Link to={"/"}>Home</Link>
           </li>
@@ -153,4 +153,4 @@ const TopNav = () => {
   );
 };
 
-export default TopNav;
+export default TopNavTransparent;

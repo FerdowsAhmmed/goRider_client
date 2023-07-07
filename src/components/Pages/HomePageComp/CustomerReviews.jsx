@@ -1,7 +1,6 @@
 import React from "react";
 import SectionHeader from "../../Shared/SectionHeader";
 import { Swiper, SwiperSlide } from "swiper/react";
-import "swiper/css";
 import { Autoplay } from "swiper";
 import { FaUser, FaQuoteRight, FaQuoteLeft } from "react-icons/fa";
 

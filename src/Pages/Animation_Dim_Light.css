@@ -1,0 +1,16 @@
+.overlay_animation {
+  animation-name: opacityAnimation;
+  animation-duration: 10s;
+  animation-direction: alternate;
+  animation-fill-mode: forwards;
+  animation-iteration-count: infinite;
+}
+
+@keyframes opacityAnimation {
+  0% {
+    background-color: rgba(0, 0, 0, 0.2);
+  }
+  100% {
+    background-color: rgba(0, 0, 0, 0.8);
+  }
+}

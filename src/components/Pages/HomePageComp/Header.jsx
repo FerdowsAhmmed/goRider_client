@@ -1,8 +1,9 @@
 import React from "react";
+import LazyLoad from "react-lazyload";
 
 const Header = () => {
   return (
-    <header className="bg-secondary text-light min-h-full flex justify-center items-center">
+    <header className="bg-secondary text-light min-h-screen flex justify-center items-center">
       <div className="container mx-auto p-4 ">
         <div className="flex flex-wrap items-center">
           <div className="w-full md:w-1/2 order-2 md:order-1">
@@ -20,11 +21,14 @@ const Header = () => {
             </div>
           </div>
           <div className="w-full md:w-1/2 my-10 md:my-0 order-1 md:order-2">
-            <img
-              src="https://www.pngmart.com/files/22/Car-Logo-PNG-HD-Isolated.png"
-              alt="Header Image"
-              className="mx-auto"
-            />
+            <LazyLoad offset={100}>
+              <img
+                src="https://i.ibb.co/xg51k0Z/go-ride-car-image.png"
+                alt="Header Image"
+                className="mx-auto"
+                loading="lazy"
+              />
+            </LazyLoad>
           </div>
         </div>
       </div>

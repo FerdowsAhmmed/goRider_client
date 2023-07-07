@@ -1,6 +1,7 @@
 import React from "react";
 import SectionHeader from "../../Shared/SectionHeader";
 import { FaCheck } from "react-icons/fa";
+import LazyLoad from "react-lazyload";
 
 const TrustedServices = () => {
   return (
@@ -46,11 +47,13 @@ const TrustedServices = () => {
               </div>
             </div>
             <div className="w-full md:w-1/2 my-10 md:my-0 order-1 md:order-2">
-              <img
-                src="https://static.vecteezy.com/system/resources/previews/013/923/535/original/sports-car-logo-png.png"
-                alt="Header Image"
-                className="mx-auto"
-              />
+              <LazyLoad offset={100}>
+                <img
+                  src="https://static.vecteezy.com/system/resources/previews/013/923/535/original/sports-car-logo-png.png"
+                  alt="Header Image"
+                  className="mx-auto"
+                />
+              </LazyLoad>
             </div>
           </div>
         </div>
