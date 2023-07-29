@@ -12,13 +12,13 @@ import {
   FaRegEdit,
   FaCodepen,
   FaAllergies,
+  FaTags,
 } from "react-icons/fa";
 import useCheckRole from "./useCheckRole";
 
 const Dashboard = () => {
   const [isAdmin, isDriver] = useCheckRole();
 
-  console.log("____",isDriver);
 
   return (
     <>
@@ -48,6 +48,11 @@ const Dashboard = () => {
                 <li>
                   <NavLink to="/dashboard/admin/all-cars">
                     <FaCar></FaCar> All Cars
+                  </NavLink>
+                </li>
+                <li>
+                  <NavLink to="/dashboard/admin/coupon">
+                    <FaTags></FaTags> Coupon
                   </NavLink>
                 </li>
                 <li>

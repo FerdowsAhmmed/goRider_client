@@ -24,6 +24,7 @@ import MyRides from "./Pages/Dashboard/DashboardPages/AllUsers/MyRides";
 import PaymentHistory from "./Pages/Dashboard/DashboardPages/AllUsers/PaymentHistory";
 import UpdateCars from "./Pages/Dashboard/DashboardPages/DriverPages/UpdateCars";
 import AllToursDriver from "./Pages/Dashboard/DashboardPages/DriverPages/AllToursDriver";
+import Coupon from "./Pages/Dashboard/DashboardPages/AdminPages/Coupon";
 
 const router = createBrowserRouter([
   {
@@ -85,6 +86,10 @@ const router = createBrowserRouter([
       {
         path: "/dashboard/admin/all-cars",
         element: <AllCars />,
+      },
+      {
+        path: "/dashboard/admin/coupon",
+        element: <Coupon />,
       },
       // Driver Routes
       {

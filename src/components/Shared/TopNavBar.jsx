@@ -65,7 +65,7 @@ const TopNav = () => {
                   <div className="flex flex-col">
                     <li>
                       {}
-                      <Link to={dynamicPath}>Dashboard</Link>
+                      <Link to={'/dashboard'}>Dashboard</Link>
                     </li>
                     <li>
                       <button
@@ -125,7 +125,7 @@ const TopNav = () => {
                   className="dropdown-content z-[50] menu p-2 shadow bg-primary rounded-box w-52"
                 >
                   <li>
-                    <Link to={dynamicPath}>Dashboard</Link>
+                    <Link to={'/dashboard'}>Dashboard</Link>
                   </li>
                   <li>
                     <button
