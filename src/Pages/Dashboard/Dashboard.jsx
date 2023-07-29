@@ -19,6 +19,8 @@ import useCheckRole from "./useCheckRole";
 const Dashboard = () => {
   const [isAdmin, isDriver] = useCheckRole();
 
+  console.log("______=-=-=-=--",isAdmin)
+
 
   return (
     <>
